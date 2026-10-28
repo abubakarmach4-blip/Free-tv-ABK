@@ -1,0 +1,6 @@
+{
+  "name": "AutoStream TV",
+  "description": "Self-updating native Android TV streaming application with automatic M3U catalog updates, category filters, and ExoPlayer streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
